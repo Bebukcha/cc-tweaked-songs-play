@@ -2,7 +2,7 @@
 
 A simple yet functional music player for Minecraft using the CC: Tweaked mod. This script allows you to play `.dfpwm` audio files from an in-game computer, managing your playlist through an intuitive interface.
 
-## ✨ Features
+## Features
 
 -   **Automatic Scanning:** Finds all `.dfpwm` files in the specified directory.
 -   **Multi-display Support:** Displays the UI on both the computer's terminal and a connected monitor.
@@ -11,7 +11,7 @@ A simple yet functional music player for Minecraft using the CC: Tweaked mod. Th
 -   **Pagination:** Easily navigate through large song lists.
 -   **Interactive UI:** Shows status, current track, and the song list.
 
-## 🚀 How to Use
+## How to Use
 
 1.  **Install the script:** Save the provided code to a file on a computer in Minecraft (e.g., `jukebox.lua`).
 2.  **Create a music folder:** In the same directory as the script, create a new folder named `songs`.
@@ -21,7 +21,7 @@ A simple yet functional music player for Minecraft using the CC: Tweaked mod. Th
     *   (Optional) For a secondary display, attach a **Monitor**. The script will detect it automatically.
 5.  **Run the script:** Type the filename into the terminal (e.g., `jukebox`) and press Enter.
 
-## ⌨️ Controls
+## Controls
 
 Use the following keys to control the player:
 
@@ -40,7 +40,7 @@ Use the following keys to control the player:
 
 Простой, но функциональный музыкальный плеер для Minecraft, использующий мод CC: Tweaked. Скрипт позволяет воспроизводить аудиофайлы формата `.dfpwm` с компьютера в игре, управляя плейлистом через интуитивно понятный интерфейс.
 
-## ✨ Возможности
+## Возможности
 
 -   **Автоматическое сканирование:** Находит все `.dfpwm` файлы в указанной папке.
 -   **Поддержка нескольких дисплеев:** Отображает интерфейс как на терминале компьютера, так и на подключенном мониторе.
@@ -49,7 +49,7 @@ Use the following keys to control the player:
 -   **Пагинация:** Удобная навигация по большим спискам песен.
 -   **Интерактивный интерфейс:** Показывает статус, текущий трек и список песен.
 
-## 🚀 Как использовать
+## Как использовать
 
 1.  **Установите скрипт:** Сохраните предоставленный код в файл на компьютере в Minecraft (например, под именем `jukebox.lua`).
 2.  **Создайте папку для музыки:** В той же директории, где лежит скрипт, создайте папку с названием `songs`.
@@ -59,7 +59,7 @@ Use the following keys to control the player:
     *   (Опционально) Для дополнительного экрана подключите **Монитор (Monitor)**. Скрипт автоматически его обнаружит.
 5.  **Запустите скрипт:** Введите в терминале имя файла (например, `jukebox`) и нажмите Enter.
 
-## ⌨️ Управление
+## Управление
 
 Используйте следующие клавиши для управления плеером:
 
